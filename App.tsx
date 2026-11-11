@@ -253,7 +253,7 @@ export default function App() {
         <section className="relative w-full">
           <div className="relative h-[540px] sm:h-[600px] lg:h-[660px] w-full overflow-hidden">
             <img
-              src="/src/assets/images/hero_coastal_villa_1794393897166.jpg"
+              src="/assets/images/hero_coastal_villa_1794393897166.jpg"
               alt="Sunlit coastal vacation villa with infinity pool overlooking the ocean"
               referrerPolicy="no-referrer"
               className="w-full h-full object-cover"
