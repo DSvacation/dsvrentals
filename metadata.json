@@ -1,0 +1,6 @@
+{
+  "name": "DS Vacation Rentals",
+  "description": "Curated coastal and oceanfront vacation rentals with direct booking benefits and personalized local concierge service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
