@@ -24,7 +24,7 @@ const PROPERTIES: Property[] = [
     bedrooms: 3,
     bathrooms: 2.5,
     ratePerNight: 485,
-    image: '/src/assets/images/property_oceanfront_bungalow_1794393896514.jpg',
+    image: '/assets/images/property_oceanfront_bungalow_1794393896514.jpg',
     description:
       'Floor-to-ceiling glass sliders open onto a private cedar deck above the surf, with sunlit linen interiors and a chef-ready coastal kitchen.',
   },
@@ -37,7 +37,7 @@ const PROPERTIES: Property[] = [
     bedrooms: 4,
     bathrooms: 3,
     ratePerNight: 620,
-    image: '/src/assets/images/property_dune_house_1794393896172.jpg',
+    image: '/assets/images/property_dune_house_1794393896172.jpg',
     description:
       'Whitewashed cedar architecture tucked into private sand dunes with a wraparound porch, outdoor rain shower, and direct boardwalk beach access.',
   },
@@ -50,7 +50,7 @@ const PROPERTIES: Property[] = [
     bedrooms: 2,
     bathrooms: 2,
     ratePerNight: 365,
-    image: '/src/assets/images/property_harbor_retreat_1794393896984.jpg',
+    image: '/assets/images/property_harbor_retreat_1794393896984.jpg',
     description:
       'Calm bayfront retreat featuring a private wooden dock, sunset Adirondack seating, kayaks included, and a cozy hearth for cool coastal evenings.',
   },
